@@ -1,10 +1,17 @@
 @import "href=https://fonts.googleapis.com/css2?family=Bangers&display=swap";
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
-@import url(components/avatar.css);
 @import url(components/banner.css);
 @import url(components/footer.css);
 @import url(components/information.css);
 
 h2, h3 {
   text-align: center;
+}
+
+h2{
+  color: white;
+}
+
+h2, h3, h4, p, a {
+  font-family: poppins;
 }

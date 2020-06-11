@@ -1,8 +1,13 @@
 .banner {
-  background-color: #877070;
+  background-image: url('../images/bibliothèque.jpg');
   background-size: cover;
   background-position: center;
-  height: 200px;
+  height: 220px;
   justify-content: center;
   text-align: center;
+}
+
+.banner img{
+  height: 300px;
+  width: 300px;
 }
