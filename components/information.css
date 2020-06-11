@@ -3,6 +3,8 @@
   justify-content: space-between;
 }
 
-/*.card-title {
+.card-subtitle {
   text-align: center;
-}*/
+  color: #344c8e;
+  font-size: 1.2em;
+}
